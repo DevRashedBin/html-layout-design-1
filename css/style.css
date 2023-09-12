@@ -1,0 +1,125 @@
+*{  
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: sans-serif;
+}
+header{
+    overflow: hidden;
+
+}
+.header_title{
+    width: 96%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 2%;
+    background-color: #474747;
+}
+.header_title h1{
+    color: yellow;
+    padding: 10px;
+    font-size: 15px;
+    background-color: transparent;
+}
+.nav{
+    width: 96%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: #474747;
+}
+.nav h1{
+    color: yellow;
+    padding: 10px;
+    font-size: 15px;
+    background-color: transparent;
+}
+.main{
+    display: flex;
+}
+.content{
+    width: 55%;
+    height: 80vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #474747;
+}
+.content h1{
+    color: yellow;
+    background-color: transparent;
+    padding: 10px;
+    font-size: 15px;
+}
+.search_bar{
+    width: 93%;
+    height: 5vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #757575;
+}
+.artical{
+    width: 93%;
+    height: 35vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #757575;
+}
+.service{
+    width: 93%;
+    height: 25vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #757575;
+}
+.aside{
+    width: 37%;
+    height: 80vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #474747;
+
+}
+.aside h1{
+    color: yellow;
+    background-color: transparent;
+    padding: 10px;
+    font-size: 15px;
+}
+.img{
+    width: 93%;
+    height: 32vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #474747;
+    display: flex;
+}
+.img1{
+    width: 48%;
+    height: 32vh;
+    margin-top: 30px;
+    margin: 0 auto;
+    background-color: #757575;
+}
+.img2{
+    width: 48%;
+    height: 32vh;
+    margin-top: 30px;
+    margin: 0 auto;
+    background-color: #757575;
+    float: right;
+}
+
+.about{
+    width: 93%;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #757575;
+}
+footer{
+    width: 96%;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 0%;
+    background-color: #474747;
+}
